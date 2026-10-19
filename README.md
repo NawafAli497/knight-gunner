@@ -137,7 +137,7 @@ To make a standalone build, use **File → Build Profiles**. The scene order is 
 
 ## Team
 
-Built by **Nawaf Ali** and **Abdulmajeed** as a course project.
+Built by **Nawaf** and **Abdulmajeed** **talal** and **abdullah**  as a hacathon(game box) project .
 
 ## Credits
 
